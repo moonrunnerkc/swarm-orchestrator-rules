@@ -1,0 +1,7 @@
+name: cheat-defaults
+author: swarm-orchestrator
+version: 1.0.0
+description: Default cheat-detection rules used by the swarm-orchestrator falsification battery. This pack ships built-in with the orchestrator; the copy here exists so contributors can fork it as a starting point and so the registry has a worked example.
+ruleCount: 5
+maintainer: moonrunnerkc
+homepage: https://github.com/moonrunnerkc/swarm-orchestrator
